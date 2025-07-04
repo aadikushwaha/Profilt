@@ -1,12 +1,38 @@
-# React + Vite
+# 💼 Aditya Kushwaha | Full-Stack Web Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website. This project showcases my skills, projects, and experience as a web developer. The site is fully responsive, fast, and built with modern technologies to reflect my passion for clean code and user-focused design.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**:  
+🔗 [portfolioaditya.vercel.app](https://portfolioaditya-a3j3ebsyp-aadikushwahas-projects.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework:** React.js  
+- **Styling:** Tailwind CSS  
+- **Languages:** HTML5, CSS3, JavaScript  
+- **Deployment:** Vercel  
+
+---
+
+## ✨ Features
+
+- ✅ Fully responsive for all screen sizes  
+- ✅ Smooth scrolling and user-friendly interface  
+- ✅ Projects section with GitHub integration  
+- ✅ About Me section with skills and tools  
+- ✅ Contact section with social media links  
+- ✅ Fast performance and SEO-friendly structure  
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/adityakushwaha-dev/portfolio.git
+cd portfolio
+npm install
+npm run dev
