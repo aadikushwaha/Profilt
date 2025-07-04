@@ -5,25 +5,6 @@ const Header = () => {
   return (
     <>
       {mobileView ?
-      // <nav className="fixed top-0 left-0 bg-black w-screen navmenu shadow" id="navmenu">
-
-        //   <ul className="flex flex-row px-10  py-4 gap-10 items-center justify-center text-2xl">
-        //     <li><div className="profile-img ">
-        //       <img
-        //         src="assets/img/profile.jpg"
-        //         alt="Profile"
-        //         className="img-fluid rounded-circle h-8 w-8 "
-        //       />
-        //     </div>
-        //     </li>
-        //     <li><a href="#hero" className="active"><i className="bi bi-house navicon"></i>Home</a></li>
-        //     <li><a href="#about"><i className="bi bi-person navicon"></i> About</a></li>
-        //     <li><a href="#resume"><i className="bi bi-file-earmark-text navicon"></i> Resume</a></li>
-        //     <li><a href="#portfolio"><i className="bi bi-images navicon"></i> Projects</a></li>
-        //     <li><a href="#services"><i className="bi bi-hdd-stack navicon"></i> Services</a></li>
-        //     <li><a href="#contact"><i className="bi bi-envelope navicon"></i> Contact</a></li>
-        //   </ul>
-        // </nav> 
         <nav className="fixed top-0 left-0 w-full bg-gray-900 shadow-lg z-50 md:hidden">
           {/* Mobile header with profile and hamburger button */}
           
@@ -90,7 +71,7 @@ const Header = () => {
 
     <div className="logo d-flex flex-col align-items-center justify-content-center">
       <h1 className="sitename mt-5 text-xl">Aditya Kushwaha</h1>
-            <h2 className="p-3 text-light">MERN Stack Developer</h2>
+            <p className="p-3 text-light text-sm">MERN Stack Developer</p>
     </div>
 
     <div className="social-links text-center">
